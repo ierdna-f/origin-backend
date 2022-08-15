@@ -1,0 +1,23 @@
+{
+  "name": "origin-backend-take-home-assignment",
+  "version": "1.0.0",
+  "description": "Origin offers its users an insurance package personalized to their specific needs without requiring the user to understand anything about insurance. This allows Origin to act as their *de facto* insurance advisor.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OriginFinancial/origin-backend-take-home-assignment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OriginFinancial/origin-backend-take-home-assignment/issues"
+  },
+  "homepage": "https://github.com/OriginFinancial/origin-backend-take-home-assignment#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
