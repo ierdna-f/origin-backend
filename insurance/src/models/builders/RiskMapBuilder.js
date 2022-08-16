@@ -1,4 +1,4 @@
-const utils = require('../../aux/utils/RiskUtils')
+const utils = require('../../auxiliar/utils/RiskUtils')
 
 /**
 * This build creates the riskMap which is in my idea the map of 
