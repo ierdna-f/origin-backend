@@ -41,4 +41,4 @@ $ node .
 ```
 
 ### Tests created using Postman Collection
-https://www.getpostman.com/collections/06a14fe3645800876caa
+https://www.getpostman.com/collections/9f40f4cdb42f33477a7d
