@@ -1,12 +1,18 @@
 # Instructions
 This project was built using Node.js  
 
-## Install requirements dependencies by doing 
+## Pre-Requirements  
 ```
-$ npm init -y
+node,
+npm
 ```
 
-### After configurating run node . in the root
+## Install requirements dependencies by doing 
+```
+$ npm install
+```
+
+### After configurating run in the root
 ```
 $ node .
 ```
