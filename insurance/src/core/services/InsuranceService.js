@@ -1,5 +1,5 @@
 const evaluator = require('../evaluators/RiskEvaluator')
-const responseHandler = require('../../aux/handlers/ResponseHandler')
+const responseHandler = require('../../auxiliar/handlers/ResponseHandler')
 
 const createRiskProfile = (body) => responseHandler.handle(evaluator.evaluate(body))
 

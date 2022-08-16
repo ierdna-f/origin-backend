@@ -1,5 +1,5 @@
-const calculator = require('../../aux/utils/CalculationUtils')
-const map = require('../../aux/utils/MapUtils')
+const calculator = require('../../auxiliar/utils/CalculationUtils')
+const map = require('../../auxiliar/utils/MapUtils')
 
 /**
   in this particular class the idea is to divide in 2 main info types

@@ -1,6 +1,5 @@
 const riskMapBuilder = require('../../models/builders/RiskMapBuilder')
 const infoBuilder = require('../../models/builders/InformationBuilder')
-const responseHandler = require('../../aux/handlers/ResponseHandler')
 
 /*
   this methods handle all the information and build all necessary tolls 
