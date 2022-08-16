@@ -41,4 +41,7 @@ $ node .
 ```
 
 ### Tests created using Postman Collection
-https://www.getpostman.com/collections/3431cd4aa2e16f9ceb83
+```
+To run tests locally, simply download and import this collection : https://www.getpostman.com/collections/3431cd4aa2e16f9ceb83 
+Open and hit send, all payloads and tests are pre-built
+```
